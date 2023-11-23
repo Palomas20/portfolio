@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Asesor de primera linea",
+      "organisation": "Sait",
+      "startDate": "Julio, 2023",
+      "endDate": "Presente",
+      "experiences": [
+        "Atender problematicas de los clientes con el sistema, errores que presenten, instalaciones, etc."
+      ],
+      "imageSrc": "history/sait.png"
+    },
+    {
+      "role": "Desarrollador Backend",
+      "organisation": "SiGob",
+      "startDate": "Diciembre, 2022",
+      "endDate": "Mayo, 2023",
+      "experiences": ["Trabaje en la parte de backend realizando modulos"],
+      "imageSrc": "history/sigob.png"
+    },
+    {
+      "role": "Administrador de bases de datos/reporteador",
+      "organisation": "SiGob",
+      "startDate": "Diciembre, 2022",
+      "endDate": "Mayo, 2023",
+      "experiences": ["Trabaje realizando reportes graficos con querys para consumir la informacion"],
+      "imageSrc": "history/sigob.png"
+    }
+    
+  ]
